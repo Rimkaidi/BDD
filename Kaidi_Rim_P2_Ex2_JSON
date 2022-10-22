@@ -1,0 +1,29 @@
+{
+    "adherent" : [
+        {
+            "N°" : "001",
+            "nom" : "Kaidi",
+            "prénom" : "Rim" ,
+            "date de naissance" : "12 04 1998"
+        }
+    ]
+},
+{
+    "activité" : [
+        {
+            "N° activité" : "12"
+            "libellé" : "ààà"
+            "tarif activité" : "30"
+        }
+    ]
+},
+{
+    "responsable": [
+        {
+            "N° responsable" : "30"
+            "Nom" : "Matin"
+            "prénom" : "julien"
+        }
+    ]
+}
+

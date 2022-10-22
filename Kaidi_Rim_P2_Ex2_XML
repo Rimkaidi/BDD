@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1?>
+
+<adherent>
+    <n°>001</n°>
+    <nom>Kaidi</nom>
+    <prenom>Rim</prenom>
+    <date de naissance>12 04 1998</date de naissance>
+</adherent>
+<activite>
+    <n° activite>12</n° activite>
+    <libelle>ààà</libelle>
+    <tarif acitivite>30</tarif activite>
+</activite>
+<responsable>
+    <n° responsable>30</n° responsable>
+    <nom>Martin</nom>
+    <prenom>julien</prenom>
+</respnsable>
